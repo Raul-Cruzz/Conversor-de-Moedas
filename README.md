@@ -32,5 +32,5 @@ Este é um projeto de uma página web que converte os valores de Real para Dóla
 
 - ![ HTML5 ](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white): utilizado para estruturar a página web, definindo os elementos, tags e suas próprias funções .
 - ![ CSS3 ](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3) : utilizado para estilizar a página, definindo as cores, fontes, recursos e emoções dos elementos.
-- ![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript): utilizado para fazer a interação da conversão dos valores e troca dos ícones das imagens, fonte de textos e as opções dos elementos
+- ![ JavaScript ](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript): utilizado para fazer a interação da conversão dos valores e troca dos ícones das imagens, fonte de textos e as opções dos elementos.
 <br>
